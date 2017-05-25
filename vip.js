@@ -40,7 +40,7 @@
       flag = "1";
     }
     if (flag == "0") {
-        alert("会员已到期，请联系管理员续费！");
+        alert("会员服务已到期，请联系管理员续费！");
         return;
     }
     var replaceRaw=GM_getValue("replaceRaw");
