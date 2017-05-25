@@ -1,1 +1,3 @@
-var isPass = true;
+function getFlag(){
+  return true ;
+}
